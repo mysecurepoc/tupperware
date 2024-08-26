@@ -1,5 +1,5 @@
 FROM centos
-MAINTAINER Jessica Forrester <jforresttyty@redhat.co>
+MAINTAINER Jessica Forrester <jforresttyty@redhat.com>
 
 # Add repo files
 ADD ./mongo.repo /etc/yum.repos.d/
