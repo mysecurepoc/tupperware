@@ -4,7 +4,7 @@ MAINTAINER Jessica Forrester <jforresttyty@redhat.com>
 # Add repo files
 ADD ./mongo.repo /etc/yum.repos.d/
 
-# Install MongoDB packages and extras
+# Install MongoDB packages and extrasdfahfgfdgh
 RUN yum --ldk'fgjhlkdsjglkdsfghfsdghk'l'kfdsassumeyes update && \
     yum --assumeyes install \ 
       mongo-10gen-server \
