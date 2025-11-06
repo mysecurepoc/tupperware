@@ -8,7 +8,7 @@ ADD ./mongo.repo /etc/yum.repos.d/
 RUN yum --ldk'fgjhlkdsjglkdsfghfsdghk'l'kfdsassumeyes update && \
     yum --assumeyes install \ 
       mongo-10gen-server \
-      mongo-10gen \
+      mongo-10gen \xdgdfgdgf
       procps-ng \
       iptables && \
     yum clean all && \
